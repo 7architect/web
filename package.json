@@ -34,7 +34,7 @@
     "pug": "3.0.2",
     "pug-loader": "2.4.0",
     "pug-plain-loader": "1.1.0",
-    "stylus": "0.59.0",
+    "stylus": "0.60.0",
     "stylus-loader": "4.0.0"
   }
 }
