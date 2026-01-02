@@ -3,8 +3,12 @@ main
   .stack
     .stack__item
       h1.title.title--size-xlarge.title--weight-normal.title--align-center Alexander Katkov
-      .title.title--level-2 frontend developer, musician
-    .stack__item: .container Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tellus quam, viverra quis arcu a, laoreet dignissim quam. Donec tincidunt ante vitae fermentum pharetra. Curabitur ultrices, velit eget semper volutpat, massa arcu congue arcu, vel pharetra ex nisl at justo. Mauris egestas malesuada ex, non egestas ante vulputate rhoncus. Maecenas mollis pellentesque lacinia. Nullam mattis ultrices felis. Curabitur feugiat aliquam convallis. Integer ultrices libero sem, vitae blandit nulla vestibulum vel. Quisque pharetra iaculis lorem et molestie. Integer in rhoncus eros, a tempor mi.
+      .title.title--level-2 developer, musician
+    .stack__item
+      .container
+        p Hello! I am a front-end developer based in Saint Petersburg, with experience in Vue and React. I specialize in building scalable microservice projects from the ground up and designing robust architectures.
+        p I have a strong interest in blockchain, cryptography, and P2P technologies. In my free time, I create electronic music (industrial, trance), experiment with Ableton Live and FabFilter, and develop services for sharing audio samples and presets.
+        p I value organization, continuous learning, and exploring technologies that expand human perception. I am always open to new projects, ideas, and challenging tasks.
 
 
     .stack__item: .container: nuxt-link(to="/contact"): v-button contact me via ...

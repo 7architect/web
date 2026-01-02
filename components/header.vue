@@ -2,7 +2,7 @@
   header.header: .container
     .header__logo: nuxt-link(to="/"): img(:src="_logo").header__logo-image
     nav.header__nav
-      a(target="_blank" href="//vk.com/7architect").header__nav-link VKontakte
+      a(target="_blank" href="https://t.me/suprimatis").header__nav-link Telegram @suprimatis
       a(target="_blank" href="//github.com/7architect").header__nav-link GitHub
       a(target="_blank" href="//codepen.io/7architect").header__nav-link CodePen
     .header__delimiter
