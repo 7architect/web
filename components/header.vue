@@ -1,10 +1,10 @@
 <template lang="pug">
   header.header: .container
-    .header__logo: nuxt-link(to="/"): img(:src="_logo").header__logo-image
+    .header__logo: nuxt-link(to="/"): img(src="/images/logo.jpg").header__logo-image
     nav.header__nav
       a(target="_blank" href="https://t.me/suprimatis").header__nav-link Telegram @suprimatis
       a(target="_blank" href="//github.com/7architect").header__nav-link GitHub
-      a(target="_blank" href="//codepen.io/7architect").header__nav-link CodePen
+      a(target="_blank" href="//soundcloud.com/suprimatism").header__nav-link Soundcloud
     .header__delimiter
 </template>
 
